@@ -1,0 +1,7 @@
+condition,model,paper_accuracy_pct,reproduced_accuracy_pct,paper_f1_pct,reproduced_f1_pct,paper_mcc,reproduced_mcc,status
+top10,Random Forest,99.9745,99.9745,99.979,99.979,0.999466,0.999466,MATCH
+top10,XGBoost,99.9748,99.9748,99.9792,99.9792,0.999471,0.999471,MATCH
+top10,RFF-SVM,99.4939,99.4939,99.5832,99.5832,0.989392,0.989392,MATCH
+top10_no_seq_offset,Random Forest,71.1644,71.1644,68.8686,68.8686,0.5499,0.549889,MATCH
+top10_no_seq_offset,XGBoost,71.1787,71.1787,68.8771,68.8771,0.5504,0.550391,MATCH
+top10_no_seq_offset,RFF-SVM,73.087,73.087,77.2431,77.2431,0.4447,0.44469,MATCH

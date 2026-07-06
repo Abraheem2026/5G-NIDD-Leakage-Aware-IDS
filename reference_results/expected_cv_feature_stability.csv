@@ -1,0 +1,22 @@
+condition,feature,selection_count,selection_frequency
+Top-10,AckDat,5,1.0
+Top-10,Dur,5,1.0
+Top-10,Offset,5,1.0
+Top-10,Seq,5,1.0
+Top-10,SrcBytes,5,1.0
+Top-10,TcpRtt,5,1.0
+Top-10,dTtl,5,1.0
+Top-10,sHops,5,1.0
+Top-10,sMeanPktSz,5,1.0
+Top-10,sTtl,5,1.0
+Top-10 without Seq/Offset,AckDat,5,1.0
+Top-10 without Seq/Offset,Cause,1,0.2
+Top-10 without Seq/Offset,Dur,5,1.0
+Top-10 without Seq/Offset,SrcBytes,5,1.0
+Top-10 without Seq/Offset,TcpRtt,5,1.0
+Top-10 without Seq/Offset,TotBytes,5,1.0
+Top-10 without Seq/Offset,dMeanPktSz,4,0.8
+Top-10 without Seq/Offset,dTtl,5,1.0
+Top-10 without Seq/Offset,sHops,5,1.0
+Top-10 without Seq/Offset,sMeanPktSz,5,1.0
+Top-10 without Seq/Offset,sTtl,5,1.0

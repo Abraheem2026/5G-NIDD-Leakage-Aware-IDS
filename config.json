@@ -1,0 +1,21 @@
+{
+  "dataset": {
+    "file": "data/Combined.csv",
+    "source": "IEEE DataPort",
+    "doi": "10.21227/xtep-hv36",
+    "created": "2022-12-02",
+    "version_last_updated": "2026-01-01",
+    "expected_sha256": "fa36f80859585f474504ca69eb951a079b35145537976c86b00aae3aab46ee59",
+    "expected_rows": 1215890,
+    "expected_columns": 52
+  },
+  "experiment": {
+    "random_state": 42,
+    "test_size": 0.30,
+    "cv_folds": 5,
+    "correlation_threshold": 0.90,
+    "top_k": 10,
+    "threads": 2,
+    "timing_repeats": 3
+  }
+}

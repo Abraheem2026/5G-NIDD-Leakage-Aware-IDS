@@ -1,0 +1,10 @@
+comparison,A_correct_B_wrong,A_wrong_B_correct,discordant_total,exact_p_value,holm_adjusted_p_value
+top10: RF vs XGBoost,12,13,25,1.0,1.0
+top10: RF vs RFF-SVM,1766,13,1779,0.0,0.0
+top10: XGBoost vs RFF-SVM,1755,1,1756,0.0,0.0
+top10_no_seq_offset: RF vs XGBoost,13,65,78,1.807703105408552e-09,3.615406210817104e-09
+top10_no_seq_offset: RF vs RFF-SVM,56443,63456,119899,3.132942463809097e-91,1.2531769855236388e-90
+top10_no_seq_offset: XGBoost vs RFF-SVM,56432,63393,119825,5.782144317681822e-90,1.734643295304547e-89
+RF: Top-10 vs Top-10 without Seq/Offset,105104,16,105120,0.0,0.0
+XGBoost: Top-10 vs Top-10 without Seq/Offset,105043,6,105049,0.0,0.0
+RFF-SVM: Top-10 vs Top-10 without Seq/Offset,97235,913,98148,0.0,0.0

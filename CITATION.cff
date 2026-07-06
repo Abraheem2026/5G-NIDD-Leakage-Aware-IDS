@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and the original 5G-NIDD dataset."
+title: "5G-NIDD Leakage-Aware Intrusion Detection Reproducibility Code"
+type: software
+authors:
+  - family-names: "Alsaedi Abraheem"
+    given-names: "Abraheem Sulayman"
+  - family-names: "Riheel Arhoumah"
+    given-names: "Ali Saed"
+  - family-names: "Ali Fokla"
+    given-names: "Hamza Saleh"
+  - family-names: "Basheer"
+    given-names: "Majeda M. Abdosalam"
+version: 1.0.0
+date-released: 2026-07-06
+license: MIT
+abstract: >-
+  Reproducibility code for leakage-aware binary intrusion-detection evaluation
+  on the 5G-NIDD dataset, including feature selection, Seq/Offset ablation,
+  fold-specific cross-validation, paired statistical testing, and controlled timing.
+keywords:
+  - 5G-NIDD
+  - intrusion detection
+  - machine learning
+  - feature selection
+  - data leakage
+  - reproducibility
+references:
+  - type: dataset
+    title: "5G-NIDD: A Comprehensive Network Intrusion Detection Dataset Generated over 5G Wireless Network"
+    doi: "10.21227/xtep-hv36"
