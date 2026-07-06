@@ -4,7 +4,7 @@ Reproducibility code for the manuscript:
 
 **Feature-Selected Machine Learning for 5G Intrusion Detection: Leakage-Aware Evaluation and Sensitivity to Sequence Metadata in 5G-NIDD**
 
-Authors: **Abraheem Sulayman Alsaedi Abraheem**, **Ali Saed Riheel Arhoumah**, **Hamza Saleh Ali Fokla**, and **Majeda M. Abdosalam Basheer**.
+Authors: **Abraheem Sulayman Alsaedi**, **Ali Saed Riheel Arhoumah**, **Hamza Saleh Ali Fokla**, and **Majeda M. Abdosalam Basheer**.
 
 ## Overview
 

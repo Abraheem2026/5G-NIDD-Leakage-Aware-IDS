@@ -3,7 +3,7 @@ message: "If you use this software, please cite the associated manuscript and th
 title: "5G-NIDD Leakage-Aware Intrusion Detection Reproducibility Code"
 type: software
 authors:
-  - family-names: "Alsaedi Abraheem"
+  - family-names: "Alsaedi"
     given-names: "Abraheem Sulayman"
   - family-names: "Riheel Arhoumah"
     given-names: "Ali Saed"
